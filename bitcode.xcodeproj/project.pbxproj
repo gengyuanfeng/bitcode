@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7ABD35471CA913D900E4A376 /* nishuone.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD35461CA913D900E4A376 /* nishuone.m */; };
+		7ABD354A1CA914F600E4A376 /* xxxxxxxx.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD35491CA914F600E4A376 /* xxxxxxxx.m */; };
 		7AE1E4591CA6438B0015BB5D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AE1E4581CA6438B0015BB5D /* main.m */; };
 		7AE1E45C1CA6438B0015BB5D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AE1E45B1CA6438B0015BB5D /* AppDelegate.m */; };
 		7AE1E45F1CA6438B0015BB5D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AE1E45E1CA6438B0015BB5D /* ViewController.m */; };
@@ -38,6 +39,8 @@
 /* Begin PBXFileReference section */
 		7ABD35451CA913D900E4A376 /* nishuone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nishuone.h; sourceTree = "<group>"; };
 		7ABD35461CA913D900E4A376 /* nishuone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = nishuone.m; sourceTree = "<group>"; };
+		7ABD35481CA914F600E4A376 /* xxxxxxxx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xxxxxxxx.h; sourceTree = "<group>"; };
+		7ABD35491CA914F600E4A376 /* xxxxxxxx.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = xxxxxxxx.m; sourceTree = "<group>"; };
 		7AE1E4541CA6438B0015BB5D /* bitcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bitcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AE1E4581CA6438B0015BB5D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7AE1E45A1CA6438B0015BB5D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				7AE1E45E1CA6438B0015BB5D /* ViewController.m */,
 				7ABD35451CA913D900E4A376 /* nishuone.h */,
 				7ABD35461CA913D900E4A376 /* nishuone.m */,
+				7ABD35481CA914F600E4A376 /* xxxxxxxx.h */,
+				7ABD35491CA914F600E4A376 /* xxxxxxxx.m */,
 				7AE1E4601CA6438B0015BB5D /* Main.storyboard */,
 				7AE1E4631CA6438B0015BB5D /* Assets.xcassets */,
 				7AE1E4651CA6438B0015BB5D /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AE1E45F1CA6438B0015BB5D /* ViewController.m in Sources */,
+				7ABD354A1CA914F600E4A376 /* xxxxxxxx.m in Sources */,
 				7AE1E45C1CA6438B0015BB5D /* AppDelegate.m in Sources */,
 				7ABD35471CA913D900E4A376 /* nishuone.m in Sources */,
 				7AE1E4591CA6438B0015BB5D /* main.m in Sources */,
